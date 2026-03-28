@@ -105,7 +105,7 @@ See [setup/03-metasploitable.md](setup/03-metasploitable.md)
 ## 🌐 Access URLs
 
 | Tool | URL |
-|---|---|---|
+|---|---|
 | DVWA | http://localhost |
 | Juice Shop | http://localhost:3000 |
 | Wazuh Dashboard | https://localhost |
