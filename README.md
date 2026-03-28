@@ -144,7 +144,7 @@ Home-SOC-Lab/
 ├── scripts/
 │   └── start-lab.sh            ← one-command lab startup script
 └── assets/
-    └── (screenshots)           ← dashboard and tool screenshots
+    └── Screenshots           ← dashboard and tool screenshots
 ```
 
 ---
