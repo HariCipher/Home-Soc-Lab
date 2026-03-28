@@ -104,13 +104,13 @@ See [setup/03-metasploitable.md](setup/03-metasploitable.md)
 
 ## 🌐 Access URLs
 
-| Tool | URL | Credentials |
+| Tool | URL |
 |---|---|---|
-| DVWA | http://localhost | admin / password |
-| Juice Shop | http://localhost:3000 | (create account) |
-| Wazuh Dashboard | https://localhost | admin / SecretPassword |
-| Splunk | http://localhost:8000 | admin / changeme123 |
-| Metasploitable2 | 192.168.117.129 | msfadmin / msfadmin |
+| DVWA | http://localhost |
+| Juice Shop | http://localhost:3000 |
+| Wazuh Dashboard | https://localhost |
+| Splunk | http://localhost:8000 |
+| Metasploitable2 | 192.168.117.129 |
 
 ---
 
