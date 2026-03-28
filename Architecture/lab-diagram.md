@@ -143,16 +143,16 @@ The main offensive platform. Used to run scans, exploits, and web application at
 ![Wazuh Dashboard](../Assets/Wazuh-Dashboard.png)
 
 ### Splunk Home
-![Splunk Home](../Assets/Splunk Dashboard.png)
+![Splunk Home](../Assets/Splunk-Dashboard.png)
 
 ### DVWA Login
 ![DVWA](../Assets/DVWA.png)
 
 ### Juice Shop
-![OWASP-Juice Shop](../Assets/OWASPJuice Shop.png)
+![OWASP-Juice Shop](../Assets/OWASP-Juice-Shop.png)
 
 ### Nmap Scan — Metasploitable2
-![Nmap Scan](../Assets/Nmap Metasploitable2.png)
+![Nmap Scan](../Assets/mmap-metasploitable2.png)
 
 ### Docker Containers Running
 ![Docker PS](../Assets/docker-ps.png)
