@@ -152,7 +152,7 @@ The main offensive platform. Used to run scans, exploits, and web application at
 ![OWASP-Juice Shop](../Assets/OWASP-Juice-Shop.png)
 
 ### Nmap Scan — Metasploitable2
-![Nmap Scan](../Assets/mmap-metasploitable2.png)
+![Nmap Scan](../Assets/nmap-metasploitable2.png)
 
 ### Docker Containers Running
 ![Docker PS](../Assets/docker-ps.png)
