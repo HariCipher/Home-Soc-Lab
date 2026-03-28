@@ -140,19 +140,19 @@ The main offensive platform. Used to run scans, exploits, and web application at
 > Add screenshots to the `assets/` folder and they will display here.
 
 ### Wazuh Dashboard
-![Wazuh Dashboard](../assets/wazuh-dashboard.png)
+![Wazuh Dashboard](../Assets/Wazuh-Dashboard.png)
 
 ### Splunk Home
-![Splunk Home](../assets/splunk-home.png)
+![Splunk Home](../Assets/Splunk Dashboard.png)
 
 ### DVWA Login
-![DVWA](../assets/dvwa-login.png)
+![DVWA](../Assets/DVWA.png)
 
 ### Juice Shop
-![Juice Shop](../assets/juiceshop-home.png)
+![OWASP-Juice Shop](../Assets/OWASPJuice Shop.png)
 
 ### Nmap Scan — Metasploitable2
-![Nmap Scan](../assets/nmap-scan.png)
+![Nmap Scan](../Assets/Nmap Metasploitable2.png)
 
 ### Docker Containers Running
-![Docker PS](../assets/docker-ps.png)
+![Docker PS](../Assets/docker-ps.png)
